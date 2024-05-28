@@ -28,5 +28,8 @@ Relational Schema:
 
 - Diagrams Built with [ERD Plus](https://erdplus.com/)
 - Example Screenshots:
+<img src="0.example_main.jpg" alt="0.example_main.jpg">
+<img src="0.example_sql.jpg" alt="0.example_sql.jpg">
+
   
 
