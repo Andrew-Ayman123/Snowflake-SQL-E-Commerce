@@ -19,6 +19,8 @@ Here's a breakdown of the key components:
 - **Carts**: to store items customers add to their shopping cart before checkout ; It can be linked to the Customers and track the chosen products and quantities.
 - **Shipper**: More commonly in e-commerce, a shipper refers to a third-party logistics (3PL) provider. This is a part that specializes in shipping products.
 
+## 📈 Diagrams
+
 ER(Entity-Relationship) Diagram:
 <img src="0.ER Diagram.png" alt="0.ER Diagram.png">
 Relational Schema:
