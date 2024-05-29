@@ -1,7 +1,10 @@
 <div align="center">
 
   <h1> E-Commerce Database Project</h1>
-  <img src="https://madewithlove.now.sh/eg?heart=true" alt="Made with love in Egypt">
+  
+  <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/snowflake-%23039BE5.svg?style=for-the-badge&logo=snowflake" alt="Made with love in Egypt">
+
   <h3>  Unleash the Power of Your Online Store: Build a Database Engine with Smart Search for Effortless Sales and Scalability!</h3>
   
   <img src="https://miro.medium.com/v2/resize:fit:930/0*xE_LHZkNgI5z4NJ6.png" alt="logo" />
