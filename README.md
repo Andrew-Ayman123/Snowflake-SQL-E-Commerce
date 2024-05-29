@@ -37,4 +37,6 @@ Relational Schema:
 <img src="0.example_sql.jpg" alt="0.example_sql.jpg">
 
   
+## :hearts: Contributions 
+- [Youssef Saad Gobran](https://github.com/YoussefGobran)
 
